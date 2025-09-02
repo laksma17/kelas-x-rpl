@@ -1,0 +1,10 @@
+.carausel-item img {
+    height: 200px;
+}
+
+@media(min-width:560px){
+  .carausel-item img {
+    height: 400px;
+    margin-right: auto;
+}  
+}
