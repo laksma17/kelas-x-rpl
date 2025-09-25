@@ -1,0 +1,44 @@
+
+#rumah{
+width: 80%;
+margin: auto;
+}
+#kompetensi{
+color: rgb(243, 6, 231);
+font-style: italic;
+font-size: xx-large;
+height: 100px;
+}
+.pendidikan{
+height: 100px;
+}
+.huruf{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: xx-large;
+font-weight: 500;
+}
+.jarak{
+margin-top: 30px;
+margin-bottom: 50px;
+}
+.warna{
+    background-color: yellow;
+}
+.color{
+    background-color: aqua;
+}
+.teks{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.identitas{
+    height: 100px;
+    font-size: xx-large;
+}
+.p{
+    font-size: medium;
+    margin: auto;
+}
+
+        
+    
