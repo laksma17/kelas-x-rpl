@@ -1,0 +1,6 @@
+<FileZillaServer>
+    <Settings>
+        <Item name="Admin port" type="numeric">14147</Item>
+        <Item name="Service name" type="string">FileZillaServer</Item>
+    </Settings>
+</FileZillaServer>
