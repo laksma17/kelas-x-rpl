@@ -1,0 +1,82 @@
+.border{
+    border: 1px solid;
+    
+}
+
+.wadah{
+    width: 700px;
+    margin: auto;
+}
+
+h2:hover{
+    background-color: brown;
+}
+
+.card:target{
+    background-color: aqua;
+}
+
+p::first-letter {
+    color: rgb(194, 194, 21);
+    font-size: xx-large;
+}
+
+.display{
+    display: inline-block;
+    padding: 3%;
+}
+
+.display:hover{
+    animation-name: animasi;
+    animation-duration: 10s;
+    
+}
+
+@keyframes animasi {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+
+
+.warna{
+    background-color: rgb(181, 28, 140);
+    color: blue;
+}
+
+img{
+    width: 100px;
+}
+
+.card{
+    width: 30%;
+    padding: 5%;
+    box-sizing: border-box;
+}
+
+.horizontal{
+    padding: 10px;
+    display: flex;
+    justify-content:center;
+    gap: 40px;
+}
+
+.rata{
+    text-align:center;
+}
+
+@media only screen and (max-width: 400px) {
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+ .tempat{
+    width: 80%;
+ }
+ .lebar{
+    width: 100%;
+ } 
+ .respon{
+    display: flex;
+    flex-direction: column;
+ }
+}

@@ -104,3 +104,22 @@
 08.47.25  [main] 	Deinitializing Modules
 08.47.25  [main] 	Deinitializing Control Panel
 
+14.57.00  [main] 	Initializing Control Panel
+14.57.00  [main] 	Windows Version:  Home  64-bit
+14.57.00  [main] 	XAMPP Version: 8.2.12
+14.57.00  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+14.57.00  [main] 	Running with Administrator rights - good!
+14.57.00  [main] 	XAMPP Installation Directory: "c:\xampp\htdocs\kelas 10\vidio\php_smk\xampp\"
+14.57.00  [main] 	WARNING: Your install directory contains spaces.  This may break programs/scripts
+14.57.00  [main] 	Checking for prerequisites
+14.57.03  [main] 	All prerequisites found
+14.57.03  [main] 	Initializing Modules
+14.57.03  [Apache] 	XAMPP Apache Service is already running on port 80
+14.57.03  [Apache] 	XAMPP Apache Service is already running on port 443
+14.57.03  [main] 	Starting Check-Timer
+14.57.03  [main] 	Control Panel Ready
+14.57.05  [Apache] 	Attempting to stop Apache service...
+14.57.09  [Apache] 	Status change detected: stopped
+15.09.48  [main] 	Deinitializing Modules
+15.09.48  [main] 	Deinitializing Control Panel
+
