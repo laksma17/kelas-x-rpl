@@ -1,4 +1,4 @@
-let hari = 5;
+let hari = 7;
 let hasil;
 
 switch (hari) {

@@ -49,8 +49,8 @@
     if (isset($_POST['simpan'])) {
         $user = $_POST['user'];
         $email = $_POST['email'];
-        $password = hash('sha256',$_POST['password']);
-        $konfirmasi = hash('sha256',$_POST['konfirmasi']);
+        $password = $_POST['password'];
+        $konfirmasi = $_POST['konfirmasi'];
         $level = $_POST['level'];
 
         if ($password === $konfirmasi) {
