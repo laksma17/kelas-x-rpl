@@ -1,0 +1,35 @@
+/* body {
+  background-color: red;
+}
+
+.container {
+  text-align: center;
+}
+
+button {
+  margin: 5px;
+} */
+
+.carausel-item img {
+    height: 200px;
+}
+
+@media(min-width:560px){
+  .carausel-item img {
+    height: 400px;
+    margin-right: auto;
+}  
+}
+
+.jumbotron{
+  padding: 0,5rem;
+}
+
+.container h1{
+  font-size: 4em;
+  font-weight: bold;
+}
+
+.card img{
+  height: 170px;
+}
